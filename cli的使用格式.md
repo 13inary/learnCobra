@@ -5,8 +5,10 @@ appName			 command	arguments	--flags
 ```
 
 ###   命令
-应用程序的核心
+
+
+###   参数
+
 
 
 ###   标志
-修饰命令的 行为
